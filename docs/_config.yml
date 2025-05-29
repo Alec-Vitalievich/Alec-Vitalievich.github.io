@@ -30,6 +30,14 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Minima customisation
+minima:
+  include_custom_head: true
+
+# Includes
+include:
+  - _includes/head-custom.html
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
