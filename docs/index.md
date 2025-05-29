@@ -3,8 +3,15 @@ layout: default
 title: Home
 ---
 
-# Welcome!
+# 👋 Welcome!
 
-This is my personal portfolio webiste.
-Check out my [About Me](/about/) page!
-Check out my [Projects](/projects/) page to see what I've been working on!
+Hi, I'm Alec Vitalievich and welcome to my personal portfolio! Here you'll find my projects, involvement, academics and more!
+
+---
+
+## Explore
+- 🔍 Learn more [About Me](/about/)
+- 💼 See my [Projects](/projects/)
+- 🖥️ My [GitHub Profile](https://github.com/Alec-Vitalievich)
+
+> "We're all different. Especially him. But there's something kind of fantastic about that, isn't there?" 
