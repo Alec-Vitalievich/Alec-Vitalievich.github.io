@@ -7,3 +7,4 @@ title: Home
 
 This is my personal portfolio webiste.
 Check out my [About Me](/about/) page!
+Check out my [Projects](/projects/) page to see what I've been working on!
