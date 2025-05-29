@@ -5,7 +5,7 @@ title: Home
 
 # 👋 Welcome!
 
-Hi, I'm Alec Vitalievich and welcome to my personal portfolio! Here you'll find my projects, involvement, academics and more!
+Hi, I'm Alec Vitalievich! I'm an Aerospace Engineering and Computer Science student studying at the University of Adelaide. This is my personal portfolio! Here you'll find my projects, involvement, academics and more!
 
 ---
 
