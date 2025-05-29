@@ -13,8 +13,8 @@ This website is a place where I share my projects, involvements, work and my res
 ## 🎓 Education
 
 **University of Adelaide**
-Bachelor of Engineering with Bachelor of Mathematical and Computer Science (Honours)
-Majors: Aerospace Engineering & Computer Science
+- Bachelor of Engineering with Bachelor of Mathematical and Computer Science (Honours)
+- Majors: Aerospace Engineering & Computer Science
 
 ---
 
@@ -32,3 +32,7 @@ Majors: Aerospace Engineering & Computer Science
 ## 📄 Resume
 
 If you would like to know more you can [download my resume (PDF)](/docs/resume.pdf)
+
+## Contact Me
+
+If you would like to contact me, feel free to email me at [avitalievich815@gmail.com]

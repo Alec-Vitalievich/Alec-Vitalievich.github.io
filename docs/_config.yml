@@ -20,10 +20,11 @@
 
 title: Alec Vitalievich
 email: avitalievich815@gmail.com
-description: Personal portfolio and Project Documentation
+description: Personal portfolio
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://alec-vitalievich.github.io"
 github_username:  alec-vitalievich
+linkedin_username: alec-vitalievich
 
 # Build settings
 theme: minima
