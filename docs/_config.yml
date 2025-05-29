@@ -23,8 +23,7 @@ email: avitalievich815@gmail.com
 description: Personal portfolio and Project Documentation
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://alec-vitalievich.github.io"
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  alec-vitalievich
 
 # Build settings
 theme: minima
