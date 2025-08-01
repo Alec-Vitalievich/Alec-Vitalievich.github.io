@@ -24,7 +24,7 @@ description: Personal portfolio
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://alec-vitalievich.github.io"
 github_username:  alec-vitalievich
-linkedin_username: alec-vitalievich
+linkedin_username: alec-vitalievich-587258257
 
 # Build settings
 theme: minima
